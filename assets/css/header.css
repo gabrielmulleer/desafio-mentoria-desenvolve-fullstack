@@ -1,0 +1,28 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+}
+
+.header__title {
+    font-size: 24px;
+    color: var(--header-title-color);
+}
+
+label {
+    display: flex;
+    align-items: center;
+    background: var(--search-box);
+    border-radius: 4px;
+    padding: 8px;
+}
+
+.header__input {
+    border: none;
+    background: var(--search-box);
+}
+
+.header__input::placeholder {
+    color: var(--search-box-text);
+}
