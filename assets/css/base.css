@@ -1,14 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600&display=swap');
+
 :root {
     --white: #ffffff;
     --search-box: #DB1E8C;
     --search-box-text: #FF97D3;
-    --bg-color: #858585;
+    --bg-color: #33475B;
     --header-title-color: #0000EE;
     --card-title-color: #364372;
     --text-color: #000000;
     --button-color: #264FEC;
     --bg-card-color: #F5F5F5;
     --icon-footer-color: #0A1B36;
+}
+
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
 }
 
 .container {
