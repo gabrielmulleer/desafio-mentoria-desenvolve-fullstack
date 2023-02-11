@@ -17,7 +17,7 @@ This is a solution to the [Mentorship Challange by Milena Emmert](https://milena
 
 ### Screenshot
 
-![](./screenshot/index.png)
+![](./assets/screenshot/index.png)
 
 ### Links
 
