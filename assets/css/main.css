@@ -5,7 +5,7 @@ main {
 .card__container {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 30px;
     padding: 37px 0 140px 0;
